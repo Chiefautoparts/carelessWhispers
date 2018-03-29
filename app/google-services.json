@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555199804224",
+    "firebase_url": "https://whisper-21e03.firebaseio.com",
+    "project_id": "whisper-21e03",
+    "storage_bucket": "whisper-21e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555199804224:android:87dfdc1d3b02dedf",
+        "android_client_info": {
+          "package_name": "designs.anonyco.chit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555199804224-oa3isatfdh07r27mgmp4gnphkslgcicq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "designs.anonyco.chit_chat",
+            "certificate_hash": "28563f41810ab766acf18f56a68a9b8140c4c577"
+          }
+        },
+        {
+          "client_id": "555199804224-nvi874q1o5dujstlfjogd4ac7a6sudu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaTxFADRR-xE7JS-hkN6hNFw_8Ohndo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555199804224-nvi874q1o5dujstlfjogd4ac7a6sudu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
